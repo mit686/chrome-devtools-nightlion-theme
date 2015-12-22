@@ -1,7 +1,3 @@
-li.odd-row {
-  background-color: #000 !important;
-}
-
 #toolbar > .toolbar-item.toggleable.toggled-on {
   -webkit-transition: border-top 0.25s ease-out 0;
 }
@@ -777,7 +773,7 @@ body.dock-to-right:not(.undocked):not(.overlay-contents) {
   background: none !important;
 }
 .editing {
-  background-color: #222222 !important;
+  background-color: #63E7CD !important;
   outline: 1px solid #89f5a2 !important;
   color: #cccccc !important;
 }
@@ -4341,6 +4337,6 @@ body .inspector-view-toolbar.toolbar::shadow .toolbar-button-theme {
   -webkit-mask-position: -4px -111px !important;
 }
 
-.sidebar-pane.composite {
-  padding: 0px;
+::shadow .tree-outline li.odd-row+.children li, ::shadow .tree-outline li.odd-row {
+  background-color: #272727 !important;
 }

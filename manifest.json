@@ -1,6 +1,6 @@
 {
   "name": "DevTools Theme: NightLion Dark",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "NightLion Developer Tools theme dark",
   "devtools_page": "devtools.html",
   "manifest_version": 2,
@@ -8,4 +8,3 @@
            "48": "images/icon48.png",
            "96": "images/icon96.png" }
 }
-
